@@ -1,78 +1,74 @@
-<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400" width="120px" align="right">
+<img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400" width="140px" align="right">
 
-# Olá, eu sou o Leandro Rocha! 🚀
-### **Full Stack Developer | Cloud & AI Enthusiast**
-**Engenharia da Computação @ USJT**
+# Olá, eu sou o Leandro Rocha! 👋
+### **Desenvolvedor Full Stack | Engenharia da Computação**
+*Especialista em unir desenvolvimento de software, cloud e inteligência de negócios.*
 
-<p align="left">
-  <em>"Transformando processos industriais complexos em arquiteturas de software escaláveis e eficientes."</em>
-</p>
+<br/>
 
-Sou um desenvolvedor com uma **vantagem competitiva única**: minha base sólida em **Engenharia e Processos (PCP/PCM)**. Antes de escrever código, entendo o negócio. Hoje, aplico essa visão sistêmica para criar soluções robustas integrando IA e Cloud Computing.
+Sou um **Full Stack Developer** com um background diferenciado: antes do código, dominei o chão de fábrica e a gestão de processos (**PCP/PCM**). Essa vivência me ensinou que a tecnologia deve servir à eficiência do negócio.
 
----
-
-### 📍 Status Profissional
-
-* 💼 **Atualmente:** Desenvolvedor Full Stack na **[Alest Consultoria](https://www.linkedin.com/company/alest-consultoria/)**
-    * *Foco:* Integração de **LLMs (IA Generativa)**, automação com **Python/Java** e desenvolvimento Web Moderno.
-* 🎓 **Formação:** Engenharia da Computação pela **Universidade São Judas Tadeu** (Previsão: 2027).
-* 🎯 **Objetivo:** Certificação **AWS Developer Associate** e especialização em **Cibersegurança**.
-* 🌐 **Idiomas:** Português (Nativo) | Inglês (Técnico/Intermediário).
+Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escaláveis que integram o poder do **Python e Java** no backend com interfaces modernas em **Next.js**, tudo potencializado por **Inteligência Artificial (LLMs)** e Infraestrutura Cloud.
 
 ---
 
-## 🛠️ Stack Tecnológica & Ferramentas
+### 🚀 Stack Tecnológica & Arquitetura
 
-### ☁️ Core Engineering & Cloud
+#### **💻 Frontend & User Experience**
+*Criação de interfaces responsivas, rápidas e focadas no usuário.*
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### 💻 Frontend & Interface Moderna
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
-### 📊 Business Intelligence & Gestão (Diferenciais)
-> *Ferramentas que utilizo para traduzir código em valor de negócio.*
+#### **⚙️ Backend & Core Engineering**
+*Lógica robusta, APIs seguras e processamento de dados.*
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
 
+#### **☁️ Cloud, DevOps & AI**
+*Infraestrutura escalável e Inteligência Artificial aplicada.*
+<div align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+#### **📊 Business Intelligence & Enterprise Tools**
+*O diferencial: ferramentas de gestão e dados.*
 <div align="left">
   <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion_Certified-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday.com&logoColor=white" />
 </div>
 
 ---
 
-## 📈 GitHub Analytics
+### 📈 Métricas & Atividade
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandroRochaDosPrazeres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRochaDosPrazeres&layout=compact&theme=dracula&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeandroRochaDosPrazeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRochaDosPrazeres&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <p><strong>Vamos construir algo juntos?</strong></p>
-  
   <a href="https://www.linkedin.com/in/leandro-rocha-dos-prazeres-387877306" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  <a href="https://portf-lio-opal-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Ver_Projetos-000000?style=flat-square&logo=vercel&logoColor=white" height="35" />
   </a>
   <a href="mailto:leandrorocha899@icloud.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" height="30" />
-  </a>
-  <a href="https://portf-lio-opal-nine.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfólio_Web-000000?style=flat&logo=Vercel&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Email-Enviar_Mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
