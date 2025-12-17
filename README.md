@@ -62,15 +62,25 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leandro-rocha-dos-prazeres-387877306" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  &nbsp;&nbsp;&nbsp; <a href="https://portf-lio-opal-nine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp; <a href="mailto:leandrorocha899@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/leandro-rocha-dos-prazeres-387877306" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="30px"></td>
+    <td>
+      <a href="https://portf-lio-opal-nine.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfólio-Ver%20Projetos-black?style=flat-square&logo=vercel&logoColor=white" height="35" alt="Portfólio"/>
+      </a>
+    </td>
+    <td width="30px"></td>
+    <td>
+      <a href="mailto:leandrorocha899@icloud.com">
+        <img src="https://img.shields.io/badge/Email-Enviar%20Mensagem-D14836?style=flat-square&logo=gmail&logoColor=white" height="35" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
