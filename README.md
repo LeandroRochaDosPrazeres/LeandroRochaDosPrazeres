@@ -10,6 +10,8 @@ Sou um **Full Stack Developer** com um background diferenciado: antes do código
 
 Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escaláveis que integram o poder do **Python e Java** no backend com interfaces modernas em **Next.js**, tudo potencializado por **Inteligência Artificial (LLMs)** e Infraestrutura Cloud.
 
+🏆 **Destaque:** *Certified Salesforce Agentforce Specialist (AI Automation)*
+
 ---
 
 ### 🚀 Stack Tecnológica & Arquitetura
@@ -42,8 +44,9 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
 </div>
 
 #### **📊 Business Intelligence & Enterprise Tools**
-*O diferencial: ferramentas de gestão e dados.*
+*O diferencial: CRM Inteligente, gestão e dados.*
 <div align="left">
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Notion_Certified-000000?style=for-the-badge&logo=notion&logoColor=white" />
