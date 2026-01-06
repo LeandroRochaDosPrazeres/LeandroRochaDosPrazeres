@@ -62,25 +62,30 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
 
 ---
 
-### 📈 Métricas & Atividade
+<h3 align="center">📊 Métricas & Atividade</h3>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeandroRochaDosPrazeres&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRochaDosPrazeres&layout=compact&theme=dark&hide_border=true" />
+  <a href="https://github.com/LeandroRochaDosPrazeres">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroRochaDosPrazeres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" alt="Estatísticas do Leandro"/>
+  </a>
+  
+  <a href="https://github.com/LeandroRochaDosPrazeres">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroRochaDosPrazeres&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens Mais Usadas"/>
+  </a>
 </div>
 
----
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-rocha-dos-prazeres-387877306" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://portf-lio-opal-nine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" alt="Portfólio">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
+  <a href="https://portf-lio-opal-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-VER_PROJETOS-101820?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;
   <a href="mailto:leandrorocha899@icloud.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-ENVIAR_MSG-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
