@@ -10,8 +10,6 @@ Sou um **Full Stack Developer** com um background diferenciado: antes do código
 
 Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escaláveis que integram o poder do **Python e Java** no backend com interfaces modernas em **Next.js**, tudo potencializado por **Inteligência Artificial (LLMs)** e Infraestrutura Cloud.
 
-🏆 **Destaque:** *Certified Salesforce Agentforce Specialist (AI Automation)*
-
 ---
 
 ### 🚀 Stack Tecnológica & Arquitetura
@@ -52,6 +50,15 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
   <img src="https://img.shields.io/badge/Notion_Certified-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=monday.com&logoColor=white" />
 </div>
+
+---
+
+### 📜 Certificações & Qualificações
+
+* **Salesforce:** Agentforce Specialist (AI Automation)
+* **Notion:** Certified Admin
+* **Monday.com:** Working with Boards
+* **Instituto Mauá de Tecnologia:** Python Básico
 
 ---
 
