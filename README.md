@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400" width="140px" align="right">
 
 # Olá, eu sou o Leandro Rocha! 👋
-### **Desenvolvedor Full Stack | Engenharia da Computação**
+### **Desenvolvedor Full Stack | AWS Certified Developer | Engenharia da Computação**
 *Especialista em unir desenvolvimento de software, cloud e inteligência de negócios.*
 
 <br/>
@@ -35,7 +35,7 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
 #### **☁️ Cloud, DevOps & AI**
 *Infraestrutura escalável e Inteligência Artificial aplicada.*
 <div align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Certified_Developer-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -55,6 +55,7 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
 
 ### 📜 Certificações & Qualificações
 
+* **AWS:** Certified Developer – Associate ☁️
 * **Salesforce:** Agentforce Specialist (AI Automation)
 * **Notion:** Certified Admin
 * **Monday.com:** Working with Boards
@@ -65,7 +66,7 @@ Atualmente, atuo na **Alest Consultoria**, desenvolvendo arquiteturas escalávei
 <div align="center">
   <a href="https://www.linkedin.com/in/leandro-rocha-dos-prazeres-387877306" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-  </a> 
+  </a>  
   &nbsp;&nbsp;&nbsp;
   <a href="https://portf-lio-opal-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" alt="Portfólio">
